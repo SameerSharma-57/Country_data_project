@@ -37,3 +37,19 @@ Developed
  'Italy' 'Japan' 'Kuwait' 'Netherlands' 'New Zealand' 'Norway' 'Portugal'
  'Qatar' 'Slovenia' 'South Korea' 'Spain' 'Sweden' 'Switzerland'
  'United Arab Emirates' 'United Kingdom' 'United States']
+
+
+<---------------------------------- Furthur classification of under developed countries ---------------------------->
+
+Moderately Underdeveloped
+['Botswana' 'Equatorial Guinea' 'Gabon' 'Iraq' 'Namibia' 'South Africa']
+
+Severely Underdeveloped
+['Afghanistan' 'Angola' 'Benin' 'Burkina Faso' 'Burundi' 'Cameroon'
+ 'Central African Republic' 'Chad' 'Comoros' 'Congo, Dem. Rep.'
+ 'Congo, Rep.' "Cote d'Ivoire" 'Eritrea' 'Gambia' 'Ghana' 'Guinea'
+ 'Guinea-Bissau' 'Haiti' 'Kenya' 'Kiribati' 'Lao' 'Lesotho' 'Liberia'
+ 'Madagascar' 'Malawi' 'Mali' 'Mauritania' 'Mozambique' 'Niger' 'Nigeria'
+ 'Pakistan' 'Rwanda' 'Senegal' 'Sierra Leone' 'Sudan' 'Tanzania'
+ 'Timor-Leste' 'Togo' 'Uganda' 'Yemen' 'Zambia']
+
